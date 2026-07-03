@@ -1,0 +1,11 @@
+Metric,Value
+Total Customers,500
+High Risk Customers,282
+Medium Risk Customers,10
+Low Risk Customers,208
+Best Model,XGBoost
+Best Accuracy,0.93
+Top Churn Factor,SatisfactionScore
+Average Actual LTV,7081.98
+Average Predicted LTV,7085.24
+Customer Segments,4
