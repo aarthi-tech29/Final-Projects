@@ -1,0 +1,11 @@
+2026-07-02 22:10:27,778 | INFO | Pipeline Started
+2026-07-02 22:10:28,047 | INFO | Datasets Loaded Successfully
+2026-07-02 22:10:28,056 | INFO | Validation Completed
+2026-07-02 22:10:28,067 | INFO | Customer Data Cleaned
+2026-07-02 22:10:28,082 | INFO | Feature Engineering Completed
+2026-07-02 22:10:28,097 | INFO | Datasets Merged
+2026-07-02 22:10:28,102 | INFO | Statistics Generated
+2026-07-02 22:10:28,110 | INFO | Customer Segmentation Completed
+2026-07-02 22:10:28,180 | INFO | Stored in MySQL
+2026-07-02 22:10:28,201 | INFO | Datasets Exported
+2026-07-02 22:10:28,202 | INFO | Pipeline Completed Successfully
