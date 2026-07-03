@@ -1,0 +1,501 @@
+CustomerID,ChurnProbability,RiskCategory,RetentionRecommendation,BusinessRecommendation
+CUST0001,0.9778977,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0002,0.00029372686,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0003,0.08995149,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0004,0.99911684,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0005,0.037595484,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0006,0.0036900926,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0007,0.9973521,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0008,0.9995389,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0009,0.99918526,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0010,0.9917869,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0011,0.9827239,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0012,0.00024493286,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0013,0.9997002,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0014,0.99899095,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0015,0.009224327,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0016,0.9992823,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0017,0.97789395,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0018,0.007567455,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0019,0.011318246,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0020,0.99951124,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0021,0.9998479,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0022,0.018796558,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0023,0.97012186,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0024,0.99962354,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0025,0.016849779,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0026,0.026113104,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0027,0.9997826,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0028,0.97528994,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0029,8.482148e-05,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0030,0.02708114,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0031,0.01958492,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0032,0.9964445,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0033,0.9997272,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0034,0.00880347,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0035,0.00019201281,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0036,0.06073185,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0037,0.9895476,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0038,0.0009404141,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0039,0.0013114767,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0040,0.02081947,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0041,0.0015751618,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0042,0.99794596,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0043,0.99994516,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0044,0.999446,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0045,0.0040543457,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0046,0.001731041,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0047,0.9965179,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0048,0.9963117,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0049,0.9884751,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0050,0.00015454835,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0051,0.99984074,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0052,0.99903035,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0053,0.00081369374,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0054,0.013411455,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0055,0.9917647,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0056,0.00514006,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0057,0.9775333,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0058,0.0059996443,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0059,0.011408343,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0060,0.9995752,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0061,0.00026550455,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0062,0.99820924,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0063,0.9933687,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0064,0.9937517,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0065,0.9991635,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0066,0.07095113,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0067,0.99570304,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0068,0.008426257,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0069,0.0027738619,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0070,0.5168582,Medium,"Provide loyalty rewards, personalized offers, and proactive engagement.",Moderate Risk - Increase engagement.
+CUST0071,0.00016495137,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0072,0.99909616,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0073,0.00066754094,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0074,0.99997175,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0075,0.9855139,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0076,0.96784455,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0077,0.028814081,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0078,0.985385,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0079,0.99883324,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0080,0.99798775,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0081,0.00012270032,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0082,0.97636443,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0083,0.004514481,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0084,0.9985683,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0085,0.0063685956,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0086,0.0003004751,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0087,0.00061252835,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0088,0.99572843,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0089,0.00062524626,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0090,0.9997416,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0091,0.98491746,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0092,0.9993455,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0093,0.0009504171,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0094,0.9892074,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0095,0.000114913106,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0096,0.9885272,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0097,0.9976788,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0098,0.99649006,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0099,0.9987274,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0100,0.01989685,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0101,0.0018360539,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0102,0.010567172,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0103,0.002522043,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0104,0.9475807,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0105,0.99430966,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0106,0.009755852,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0107,0.024805883,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0108,0.99280035,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0109,0.00039781828,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0110,0.99959415,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0111,0.9993948,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0112,0.99541664,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0113,0.9988595,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0114,0.99598676,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0115,0.07754545,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0116,0.9986247,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0117,0.99887365,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0118,0.064640485,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0119,0.98731405,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0120,0.0008132298,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0121,0.98220253,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0122,0.0012754544,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0123,0.9922806,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0124,0.015276399,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0125,0.9986926,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0126,0.98584485,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0127,0.9831662,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0128,0.00783348,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0129,0.9981432,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0130,0.0017228443,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0131,0.998847,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0132,0.99990296,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0133,0.9990958,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0134,0.99990284,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0135,0.003164073,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0136,0.9981786,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0137,0.99980634,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0138,0.9997522,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0139,0.0002495188,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0140,0.002750825,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0141,0.9913384,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0142,0.94512594,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0143,0.99411666,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0144,0.017304806,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0145,0.992274,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0146,0.9997838,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0147,0.99467033,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0148,0.9964569,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0149,0.9951369,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0150,0.9910585,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0151,4.3895612e-05,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0152,0.027942512,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0153,0.012155127,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0154,0.00047759045,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0155,0.00073050684,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0156,0.006368035,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0157,0.9952577,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0158,0.032613296,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0159,0.0007504577,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0160,0.027744945,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0161,0.9996953,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0162,0.00041677486,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0163,0.01809661,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0164,0.9212729,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0165,0.9936987,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0166,0.9953779,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0167,0.9952793,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0168,0.013191544,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0169,0.99344915,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0170,0.99761826,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0171,0.99967706,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0172,0.9993923,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0173,0.9989281,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0174,0.9778882,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0175,0.9853511,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0176,0.24657616,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0177,0.99600285,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0178,0.99182105,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0179,0.99293655,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0180,0.94912964,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0181,0.9981602,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0182,0.011766543,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0183,0.9865349,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0184,2.7247284e-05,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0185,0.99685645,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0186,0.065556824,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0187,0.002145246,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0188,0.95285267,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0189,0.998919,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0190,0.029496659,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0191,0.0098642325,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0192,0.0023719233,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0193,0.001732778,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0194,0.9994666,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0195,0.0017113253,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0196,0.018059287,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0197,0.99835664,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0198,0.9969235,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0199,0.993997,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0200,0.999642,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0201,0.99996555,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0202,0.9933483,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0203,0.97559506,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0204,0.9968466,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0205,0.9503795,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0206,0.006183213,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0207,0.0011482582,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0208,0.00792598,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0209,0.00033428433,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0210,0.027452894,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0211,0.9999676,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0212,0.9900928,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0213,0.99960464,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0214,0.9991265,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0215,0.99980634,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0216,0.04686624,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0217,0.00020995173,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0218,0.013687488,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0219,0.0030285374,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0220,0.018740932,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0221,0.34385088,Medium,"Provide loyalty rewards, personalized offers, and proactive engagement.",Healthy Customer - Upsell premium services.
+CUST0222,0.98808086,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0223,0.99147475,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0224,0.9463165,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0225,0.9950355,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0226,0.020701665,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0227,0.008376369,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0228,0.9938548,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0229,0.9649563,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0230,0.99917585,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0231,0.001480544,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0232,0.9918047,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0233,0.9616561,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0234,0.99765587,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0235,0.9990283,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0236,0.0009370561,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0237,0.6969016,Medium,"Provide loyalty rewards, personalized offers, and proactive engagement.",High Risk - Personalized offers recommended.
+CUST0238,0.9995315,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0239,0.99998045,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0240,0.9768381,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0241,0.9992079,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0242,0.99142295,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0243,0.9818559,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0244,0.98351556,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0245,0.8617624,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0246,0.02322433,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0247,0.9872994,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0248,0.009024824,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0249,0.0048467736,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0250,0.9986442,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0251,0.9908592,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0252,0.9999442,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0253,0.9976169,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0254,0.019308042,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0255,0.01884595,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0256,0.0036943553,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0257,0.9874728,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0258,0.9825126,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0259,0.9992887,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0260,0.99580425,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0261,0.98777395,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0262,0.9999418,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0263,0.026283517,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0264,0.0022133032,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0265,0.38076776,Medium,"Provide loyalty rewards, personalized offers, and proactive engagement.",Healthy Customer - Upsell premium services.
+CUST0266,0.0017309347,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0267,0.99126315,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0268,0.48804078,Medium,"Provide loyalty rewards, personalized offers, and proactive engagement.",Moderate Risk - Increase engagement.
+CUST0269,0.018214136,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0270,0.99341846,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0271,0.0010498966,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0272,0.99356973,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0273,0.9973814,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0274,0.000382843,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0275,0.9952232,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0276,0.0057006096,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0277,0.99650854,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0278,0.9913089,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0279,0.99159217,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0280,0.99603564,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0281,0.9866302,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0282,0.0014221321,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0283,0.026211595,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0284,0.99825794,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0285,0.99575967,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0286,0.017069526,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0287,0.0029106073,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0288,0.03365308,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0289,0.39161253,Medium,"Provide loyalty rewards, personalized offers, and proactive engagement.",Healthy Customer - Upsell premium services.
+CUST0290,0.9864059,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0291,0.99440444,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0292,0.99927074,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0293,0.9789954,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0294,0.9879985,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0295,0.9983583,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0296,2.911477e-05,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0297,0.023317827,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0298,0.9973062,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0299,0.000121007164,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0300,0.00018233774,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0301,0.017339967,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0302,0.99694973,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0303,0.0074565844,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0304,0.99959093,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0305,0.999532,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0306,0.99087405,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0307,0.67478096,Medium,"Provide loyalty rewards, personalized offers, and proactive engagement.",High Risk - Personalized offers recommended.
+CUST0308,0.02017303,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0309,0.0013010888,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0310,0.00016259495,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0311,0.0018648276,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0312,0.0008385493,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0313,0.04902824,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0314,0.0022589818,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0315,0.9987418,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0316,0.986542,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0317,0.9998123,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0318,0.05918009,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0319,0.00022386416,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0320,0.0033334007,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0321,0.99655604,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0322,0.049532108,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0323,0.9997644,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0324,0.97988635,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0325,2.0887803e-05,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0326,9.4265735e-05,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0327,0.98122597,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0328,0.9978631,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0329,0.0023329298,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0330,0.004365774,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0331,0.015982345,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0332,0.99960846,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0333,0.98640984,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0334,0.037641387,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0335,0.00040446763,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0336,0.9997168,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0337,0.008841687,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0338,0.99664766,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0339,0.0028989825,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0340,0.99874395,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0341,0.012707234,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0342,0.004847921,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0343,0.9992951,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0344,0.030962072,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0345,0.00017430999,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0346,0.0001251654,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0347,0.9982273,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0348,0.0030327546,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0349,0.026626883,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0350,0.99965763,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0351,0.8483338,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0352,0.9638296,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0353,0.9998461,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0354,0.99955946,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0355,0.016889028,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0356,0.09142846,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0357,0.00031359342,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0358,0.9885053,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0359,0.0007597727,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0360,0.99702126,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0361,2.974204e-05,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0362,0.99582714,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0363,0.9765728,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0364,0.0014271233,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0365,0.9965,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0366,0.0011107753,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0367,0.9964031,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0368,0.9983536,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0369,0.99934596,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0370,0.9844283,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0371,0.9986493,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0372,0.08182127,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0373,0.9969171,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0374,0.0032597077,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0375,0.95921475,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0376,0.9982388,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0377,0.99669766,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0378,0.9916127,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0379,0.004885387,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0380,0.009442256,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0381,0.9948219,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0382,0.9695439,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0383,0.0126242,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0384,0.9921556,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0385,0.9951911,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0386,0.9997873,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0387,0.00570363,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0388,0.0005046391,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0389,0.98258346,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0390,0.9994873,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0391,0.0094478,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0392,0.011942054,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0393,0.9991598,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0394,0.9701599,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0395,0.9560683,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0396,0.98997,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0397,0.011378384,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0398,0.96567273,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0399,0.9900068,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0400,0.9223406,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0401,0.9933622,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0402,0.0022895979,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0403,0.9764023,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0404,0.9997924,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0405,0.99971944,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0406,0.9984549,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0407,0.0010192842,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0408,0.99658054,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0409,0.6674644,Medium,"Provide loyalty rewards, personalized offers, and proactive engagement.",High Risk - Personalized offers recommended.
+CUST0410,0.9987363,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0411,0.99740416,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0412,0.8721264,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0413,0.012287382,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0414,0.019525094,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0415,0.0030515506,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0416,0.99996185,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0417,0.9606455,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0418,0.00034006865,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0419,0.9995609,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0420,0.0075866454,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0421,0.029536674,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0422,0.9993505,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0423,0.9983113,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0424,0.999642,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0425,0.000865665,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0426,0.99900913,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0427,0.038622003,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0428,6.504889e-05,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0429,0.0016670711,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0430,0.9996582,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0431,0.9550016,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0432,0.09138242,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0433,0.0027255516,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0434,0.00015043867,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0435,0.0021557852,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0436,0.9936149,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0437,0.9925436,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0438,0.99864346,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0439,0.9782662,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0440,0.9978855,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0441,0.99968004,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0442,0.977531,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0443,0.99520785,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0444,0.0070678564,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0445,0.99974734,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0446,0.99905723,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0447,0.020624196,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0448,0.990409,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0449,0.9995783,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0450,0.014727811,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0451,0.0004954703,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0452,0.05455349,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0453,0.9994804,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0454,0.0005307594,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0455,0.9932301,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0456,0.99980336,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0457,2.9332314e-05,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0458,0.9947562,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0459,0.999833,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0460,0.48587564,Medium,"Provide loyalty rewards, personalized offers, and proactive engagement.",Moderate Risk - Increase engagement.
+CUST0461,0.9887812,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0462,0.9945051,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0463,0.96984863,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0464,0.9988463,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0465,0.99902344,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0466,0.99819416,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0467,0.00017891295,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0468,0.026105253,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0469,0.0025040575,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0470,0.00039194632,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0471,0.008685711,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0472,0.9924549,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0473,0.9978715,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0474,0.00089578377,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0475,0.9975067,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0476,0.95272756,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0477,0.99985766,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0478,0.004360034,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0479,0.98102576,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0480,0.0002953674,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0481,0.9543873,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0482,0.0027299412,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0483,0.005666457,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0484,0.005611063,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0485,0.00046914775,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0486,0.06082173,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0487,5.650714e-06,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0488,0.99773204,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0489,0.063709676,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0490,0.0047506886,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0491,0.99625057,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0492,0.98022604,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0493,0.0051342184,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0494,0.9995245,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0495,0.9988814,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0496,0.073450476,Low,Maintain regular communication and offer premium services.,Healthy Customer - Upsell premium services.
+CUST0497,0.78660226,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",High Risk - Personalized offers recommended.
+CUST0498,0.5386707,Medium,"Provide loyalty rewards, personalized offers, and proactive engagement.",Moderate Risk - Increase engagement.
+CUST0499,0.99969506,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
+CUST0500,0.9999622,High,"Immediate follow-up by customer support, offer 20% discount, assign dedicated account manager.",Critical Customer - Immediate retention campaign.
