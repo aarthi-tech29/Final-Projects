@@ -1,0 +1,7 @@
+Management Insights
+High customer churn risk detected. Immediate retention campaigns recommended.
+Best predictive model: XGBoost (Accuracy: 93.00%)
+Most influential churn factor: SatisfactionScore
+Focus marketing efforts on high-risk customer segments.
+Provide personalized offers to medium-risk customers.
+Upsell premium plans to low-risk customers.

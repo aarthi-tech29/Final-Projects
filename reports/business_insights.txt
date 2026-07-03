@@ -1,0 +1,11 @@
+ENTERPRISE CUSTOMER BUSINESS INSIGHTS
+==================================================
+
+Total Customers : 35
+Average Age : 37.64
+Average Income : 43917.26
+Average Purchase : 3682.91
+Average CLV : 62645.83
+Total Sales : 128902.0
+Highest Purchase : 9860.0
+Lowest Purchase : 0.0

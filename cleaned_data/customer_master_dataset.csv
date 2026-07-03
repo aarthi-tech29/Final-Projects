@@ -1,0 +1,36 @@
+CustomerID,Name,Gender,Age,City,State,Country,Phone,Email,Orders,TotalPurchase,LastPurchase,AgeGroup,PurchaseFrequency,CLV,LoyalCustomer,PurchaseCategory,Orders_purchase,TotalPurchase_purchase,LastPurchase_purchase,Occupation,Income,MaritalStatus,Membership,RewardPoints,Status
+1001,Mary Jones,Female,41.0,New York,NY,USA,9999999999,invalid_email,14,5544.0,2025-02-24,Senior,1.17,77616.0,Yes,High Value,14.0,5544.0,2025-02-24,Teacher,87654.0,Single,Gold,937.0,Inactive
+1002,Alice White,Male,29.0,Chicago,IL,USA,9181960013,alice1002@gmail.com,21,5544.0,2025-05-07,Adult,1.75,116424.0,Yes,High Value,21.0,5544.0,2025-05-07,Manager,67450.0,Single,Gold,101.0,Inactive
+1003,Liam Taylor,Male,22.0,Seattle,WA,USA,9838637940,liam1003@gmail.com,15,4890.0,2025-01-20,Young,1.25,73350.0,Yes,Medium Value,15.0,4890.0,2025-01-20,Teacher,74020.0,Married,Silver,385.0,Active
+1004,James Miller,Female,38.0,Dallas,TX,USA,9235116155,james1004@gmail.com,7,2527.0,2025-05-03,Adult,0.58,17689.0,No,Medium Value,7.0,2527.0,2025-05-03,Analyst,40561.0,Single,Silver,384.0,Inactive
+1005,John Smith,Male,55.0,Boston,MA,USA,9161849593,john1005@gmail.com,24,4464.0,2025-01-28,Senior,2.0,107136.0,Yes,Medium Value,24.0,4464.0,2025-01-28,Doctor,60311.0,Married,Silver,334.0,Inactive
+1006,John Smith,Female,39.0,Chicago,IL,USA,9131647525,john1006@gmail.com,3,735.0,2025-04-12,Adult,0.25,2205.0,No,Low Value,3.0,735.0,2025-04-12,Manager,50028.0,Single,Silver,904.0,Active
+1007,Alice White,Male,25.0,Dallas,TX,USA,9928327648,alice1007@gmail.com,22,9328.0,2025-02-17,Adult,1.83,205216.0,Yes,High Value,22.0,9328.0,2025-02-17,Engineer,84377.0,Married,Silver,69.0,Active
+1008,Emma Wilson,Female,35.0,New York,NY,USA,9056413953,emma1008@gmail.com,11,1617.0,2025-09-02,Adult,0.92,17787.0,Yes,Low Value,11.0,1617.0,2025-09-02,Teacher,101121.0,Married,Silver,279.0,Active
+1009,James Miller,Female,22.0,Boston,MA,USA,9423884969,james1009@gmail.com,22,5676.0,2025-09-07,Young,1.83,124872.0,Yes,High Value,22.0,5676.0,2025-09-07,Business,38161.0,Single,Bronze,91.0,Active
+1010,Emma Wilson,Male,29.0,Chicago,IL,USA,9871012269,emma1010@gmail.com,7,1225.0,2025-12-19,Adult,0.58,8575.0,No,Low Value,7.0,1225.0,2025-12-19,Business,81049.0,Single,Gold,254.0,Active
+1011,James Miller,Female,59.0,Boston,MA,USA,9999999999,james1011@gmail.com,2,450.0,2025-05-02,Senior,0.17,900.0,No,Low Value,2.0,450.0,2025-05-02,Analyst,79857.0,Married,None,0.0,Inactive
+1012,Liam Taylor,Female,56.0,Dallas,TX,USA,9018451462,invalid_email,20,9860.0,2025-11-24,Senior,1.67,197200.0,Yes,High Value,20.0,9860.0,2025-11-24,Engineer,76105.0,Married,None,0.0,Inactive
+1013,John Smith,Male,53.0,Dallas,TX,USA,9281489325,john1013@gmail.com,15,4680.0,2025-02-12,Senior,1.25,70200.0,Yes,Medium Value,15.0,4680.0,2025-02-12,Business,84921.0,Single,None,0.0,Inactive
+1014,Liam Taylor,Male,21.0,Seattle,WA,USA,9957015430,liam1014@gmail.com,19,3781.0,2025-01-09,Young,1.58,71839.0,Yes,Medium Value,19.0,3781.0,2025-01-09,Business,58760.0,Married,None,0.0,Inactive
+1015,Sophia Moore,Female,26.0,New York,NY,USA,9718227824,sophia1015@gmail.com,13,4589.0,2025-06-10,Adult,1.08,59657.0,Yes,Medium Value,13.0,4589.0,2025-06-10,Business,93654.0,Single,None,0.0,Inactive
+1016,Alice White,Male,33.0,Seattle,WA,USA,9465787133,alice1016@gmail.com,8,1400.0,2025-01-30,Adult,0.67,11200.0,No,Low Value,8.0,1400.0,2025-01-30,Business,74057.0,Married,None,0.0,Inactive
+1017,Emma Wilson,Male,35.0,New York,NY,USA,9839301031,emma1017@gmail.com,23,2346.0,2025-11-07,Adult,1.92,53958.0,Yes,Medium Value,23.0,2346.0,2025-11-07,Manager,51632.0,Married,None,0.0,Inactive
+1018,Emma Wilson,Male,53.0,New York,NY,USA,9347382997,emma1018@gmail.com,25,7925.0,2025-09-10,Senior,2.08,198125.0,Yes,High Value,25.0,7925.0,2025-09-10,Doctor,111560.0,Single,None,0.0,Inactive
+1019,Olivia Davis,Male,33.0,Boston,MA,USA,9116566701,olivia1019@gmail.com,6,2736.0,2025-04-10,Adult,0.5,16416.0,No,Medium Value,6.0,2736.0,2025-04-10,Business,107580.0,Single,None,0.0,Inactive
+1020,James Miller,Female,27.0,Dallas,TX,USA,9333872624,james1020@gmail.com,15,1875.0,2025-03-21,Adult,1.25,28125.0,Yes,Low Value,15.0,1875.0,2025-03-21,Engineer,114246.0,Married,None,0.0,Inactive
+1021,Alice White,Male,49.0,New York,NY,USA,9999999999,alice1021@gmail.com,8,1296.0,2025-05-12,Senior,0.67,10368.0,No,Low Value,8.0,1296.0,2025-05-12,Unknown,0.0,Unknown,None,0.0,Inactive
+1022,John Smith,Male,21.0,Seattle,WA,USA,9132677360,john1022@gmail.com,5,1685.0,2025-01-24,Young,0.42,8425.0,No,Low Value,5.0,1685.0,2025-01-24,Unknown,0.0,Unknown,None,0.0,Inactive
+1023,James Miller,Male,45.0,New York,NY,USA,9474687234,invalid_email,17,6562.0,2025-03-02,Senior,1.42,111554.0,Yes,High Value,17.0,6562.0,2025-03-02,Unknown,0.0,Unknown,None,0.0,Inactive
+1024,John Smith,Male,55.0,Seattle,WA,USA,9050097882,john1024@gmail.com,11,5346.0,2025-05-19,Senior,0.92,58806.0,Yes,High Value,11.0,5346.0,2025-05-19,Unknown,0.0,Unknown,None,0.0,Inactive
+1025,Liam Taylor,Male,45.0,New York,NY,USA,9219136193,liam1025@gmail.com,20,9360.0,2025-04-17,Senior,1.67,187200.0,Yes,High Value,20.0,9360.0,2025-04-17,Unknown,0.0,Unknown,None,0.0,Inactive
+1026,Sophia Moore,Female,47.0,New York,NY,USA,9998543534,sophia1026@gmail.com,14,5320.0,2025-05-17,Senior,1.17,74480.0,Yes,High Value,14.0,5320.0,2025-05-17,Unknown,0.0,Unknown,None,0.0,Inactive
+1027,Robert Brown,Male,50.0,Dallas,TX,USA,9510799118,robert1027@gmail.com,6,2880.0,2025-05-02,Senior,0.5,17280.0,No,Medium Value,6.0,2880.0,2025-05-02,Unknown,0.0,Unknown,None,0.0,Inactive
+1028,Liam Taylor,Male,29.0,Dallas,TX,USA,9513542784,liam1028@gmail.com,15,3480.0,2025-08-27,Adult,1.25,52200.0,Yes,Medium Value,15.0,3480.0,2025-08-27,Unknown,0.0,Unknown,None,0.0,Inactive
+1029,Liam Taylor,Male,27.0,Dallas,TX,USA,9241182449,liam1029@gmail.com,21,5061.0,2025-04-09,Adult,1.75,106281.0,Yes,High Value,21.0,5061.0,2025-04-09,Unknown,0.0,Unknown,None,0.0,Inactive
+1030,Emma Wilson,Female,37.0,Chicago,IL,USA,9874016400,emma1030@gmail.com,16,6720.0,2025-08-31,Adult,1.33,107520.0,Yes,High Value,16.0,6720.0,2025-08-31,Unknown,0.0,Unknown,None,0.0,Inactive
+1031,Robert Brown,Female,31.0,Dallas,TX,USA,9999999999,robert1031@gmail.com,0,0.0,Not Available,Adult,0.0,0.0,No,Low Value,,,,Unknown,0.0,Unknown,None,0.0,Inactive
+1032,Liam Taylor,Male,56.0,Boston,MA,USA,9011280598,liam1032@gmail.com,0,0.0,Not Available,Senior,0.0,0.0,No,Low Value,,,,Unknown,0.0,Unknown,None,0.0,Inactive
+1033,James Miller,Female,35.5,Chicago,IL,USA,9450533158,james1033@gmail.com,0,0.0,Not Available,Adult,0.0,0.0,No,Low Value,,,,Unknown,0.0,Unknown,None,0.0,Inactive
+1034,Sophia Moore,Male,36.0,Chicago,IL,USA,9226025634,invalid_email,0,0.0,Not Available,Adult,0.0,0.0,No,Low Value,,,,Unknown,0.0,Unknown,None,0.0,Inactive
+1035,Mary Jones,Male,23.0,Boston,MA,USA,9733754330,mary1035@gmail.com,0,0.0,Not Available,Young,0.0,0.0,No,Low Value,,,,Unknown,0.0,Unknown,None,0.0,Inactive

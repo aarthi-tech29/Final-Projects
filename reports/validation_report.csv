@@ -1,0 +1,8 @@
+Validation,Count
+Missing CustomerID,0
+Duplicate CustomerID,5
+Missing Name,0
+Missing Age,1
+Invalid Email,4
+Invalid Phone,40
+Invalid Age,0

@@ -1,0 +1,15 @@
+Timestamp,Module,Input,Output
+2026-07-03 02:58:13,Semantic Search,AI Policy,Found ai_policy.pdf
+2026-07-03 02:58:13,Resume Screening,resume1.pdf,Score : 85%
+2026-07-03 02:58:13,HR Chatbot,What is leave policy?,Employees receive 20 annual leaves.
+2026-07-03 03:04:05,Upload,EmilyDavis_resume.pdf,Uploaded Successfully
+2026-07-03 03:04:57,Summarizer,sales_report.pdf,"Quarterly sales increased by 18%. Sales were up 18% compared to the same period last year. Sales were also up by 18%, compared to last year's 18% sales increase. sales were up by18%. sales were higher than last year’s 18% increase."
+2026-07-03 03:07:22,Question Answering,What is the AI policy?,"Company AI usage policy and governance. Company Rules 1. Be respectful. 2. Maintain confidentiality. 3. Follow security policies. Employee Handbook Leave policy, code of conduct, benefits."
+2026-07-03 03:14:32,Semantic Search,finance,Completed
+2026-07-03 03:16:58,Resume Screening,resume1.pdf,75.0
+2026-07-03 03:17:42,Candidate Ranking,data_scientist.txt,Completed
+2026-07-03 03:18:23,Interview Questions,resume1.pdf,16
+2026-07-03 03:20:22,HR Chatbot,What are the company rules?,1. Be respectful. 2. Maintain confidentiality. 3. Follow security policies.
+2026-07-03 03:21:06,Business Report,sales_report.pdf,reports/business_report.pdf
+2026-07-03 03:21:40,Document Classification,All Documents,Completed
+2026-07-03 03:24:24,Duplicate Detection,All Documents,Completed

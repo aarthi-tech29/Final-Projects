@@ -1,0 +1,36 @@
+CustomerID,Name,Gender,Age,City,Orders,TotalPurchase,Income,CLV,PurchaseFrequency,Segment
+1001,Mary Jones,Female,41.0,New York,14,5544.0,87654.0,77616.0,1.17,Gold
+1002,Alice White,Male,29.0,Chicago,21,5544.0,67450.0,116424.0,1.75,Platinum
+1003,Liam Taylor,Male,22.0,Seattle,15,4890.0,74020.0,73350.0,1.25,Gold
+1004,James Miller,Female,38.0,Dallas,7,2527.0,40561.0,17689.0,0.58,Bronze
+1005,John Smith,Male,55.0,Boston,24,4464.0,60311.0,107136.0,2.0,Platinum
+1006,John Smith,Female,39.0,Chicago,3,735.0,50028.0,2205.0,0.25,Bronze
+1007,Alice White,Male,25.0,Dallas,22,9328.0,84377.0,205216.0,1.83,Platinum
+1008,Emma Wilson,Female,35.0,New York,11,1617.0,101121.0,17787.0,0.92,Bronze
+1009,James Miller,Female,22.0,Boston,22,5676.0,38161.0,124872.0,1.83,Platinum
+1010,Emma Wilson,Male,29.0,Chicago,7,1225.0,81049.0,8575.0,0.58,Bronze
+1011,James Miller,Female,59.0,Boston,2,450.0,79857.0,900.0,0.17,Bronze
+1012,Liam Taylor,Female,56.0,Dallas,20,9860.0,76105.0,197200.0,1.67,Platinum
+1013,John Smith,Male,53.0,Dallas,15,4680.0,84921.0,70200.0,1.25,Gold
+1014,Liam Taylor,Male,21.0,Seattle,19,3781.0,58760.0,71839.0,1.58,Gold
+1015,Sophia Moore,Female,26.0,New York,13,4589.0,93654.0,59657.0,1.08,Silver
+1016,Alice White,Male,33.0,Seattle,8,1400.0,74057.0,11200.0,0.67,Bronze
+1017,Emma Wilson,Male,35.0,New York,23,2346.0,51632.0,53958.0,1.92,Silver
+1018,Emma Wilson,Male,53.0,New York,25,7925.0,111560.0,198125.0,2.08,Platinum
+1019,Olivia Davis,Male,33.0,Boston,6,2736.0,107580.0,16416.0,0.5,Bronze
+1020,James Miller,Female,27.0,Dallas,15,1875.0,114246.0,28125.0,1.25,Bronze
+1021,Alice White,Male,49.0,New York,8,1296.0,0.0,10368.0,0.67,Bronze
+1022,John Smith,Male,21.0,Seattle,5,1685.0,0.0,8425.0,0.42,Bronze
+1023,James Miller,Male,45.0,New York,17,6562.0,0.0,111554.0,1.42,Platinum
+1024,John Smith,Male,55.0,Seattle,11,5346.0,0.0,58806.0,0.92,Silver
+1025,Liam Taylor,Male,45.0,New York,20,9360.0,0.0,187200.0,1.67,Platinum
+1026,Sophia Moore,Female,47.0,New York,14,5320.0,0.0,74480.0,1.17,Gold
+1027,Robert Brown,Male,50.0,Dallas,6,2880.0,0.0,17280.0,0.5,Bronze
+1028,Liam Taylor,Male,29.0,Dallas,15,3480.0,0.0,52200.0,1.25,Silver
+1029,Liam Taylor,Male,27.0,Dallas,21,5061.0,0.0,106281.0,1.75,Platinum
+1030,Emma Wilson,Female,37.0,Chicago,16,6720.0,0.0,107520.0,1.33,Platinum
+1031,Robert Brown,Female,31.0,Dallas,0,0.0,0.0,0.0,0.0,Bronze
+1032,Liam Taylor,Male,56.0,Boston,0,0.0,0.0,0.0,0.0,Bronze
+1033,James Miller,Female,35.5,Chicago,0,0.0,0.0,0.0,0.0,Bronze
+1034,Sophia Moore,Male,36.0,Chicago,0,0.0,0.0,0.0,0.0,Bronze
+1035,Mary Jones,Male,23.0,Boston,0,0.0,0.0,0.0,0.0,Bronze
